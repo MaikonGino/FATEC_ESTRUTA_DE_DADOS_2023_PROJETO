@@ -4,8 +4,8 @@ Desenvolvimento de Projeto para a matéria de Estruturas de Dados, para o segund
 ## PARTICIPANTE:
 - [Maikon Gino](https://github.com/MaikonGino)<br>
 
-## TECNOLOGIAS UTILIZADAS:
+## TECNOLOGIA UTILIZADA:
 <div>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75px">
 </div>
                                                                                           
