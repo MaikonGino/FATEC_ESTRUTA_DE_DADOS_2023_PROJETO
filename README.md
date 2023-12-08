@@ -5,5 +5,6 @@ Desenvolvimento de Projeto para a matéria de Estruturas de Dados, para o segund
 - [Maikon Gino](https://github.com/MaikonGino)<br>
 
 ## TECNOLOGIAS UTILIZADAS:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  width="50px">
 
                                                                                           
